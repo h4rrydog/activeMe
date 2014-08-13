@@ -1,0 +1,10 @@
+{
+    "name": "ActiveMe",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": ">= 4.0.0",
+        "express-handlebars": ">=0.0.0",
+        "passport": ">= 0.0.0",
+        "passport-fitbit": ">= 0.0.0"
+    }
+}
