@@ -64,8 +64,6 @@ var app = express();
 // configure Express
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
-// app.set('views', __dirname + '/views');
-// app.set('view engine', 'ejs');
 app.use(morgan('combined'));
 app.use(cookieParser());
 app.use(bodyParser.urlencoded({
