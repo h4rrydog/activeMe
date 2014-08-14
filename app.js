@@ -3,6 +3,9 @@
 // By Ifung Lu
 // 13 August 2014
 
+var env = process.env.NODE_ENV || 'production',
+    config = require('./config')[env];
+
 var express = require('express'),
     exphbs = require('express-handlebars'),
     util = require('util'),
@@ -22,11 +25,6 @@ MongoClient.connect('mongodb://localhost:27017/ActiveMe', function (err, db) {
 
     if (err) throw err;
     console.log("ActiveMe connected to mongod on 27017...");
-
-
-    // Fitbit API keys!!! Keep secret.
-    var FITBIT_CONSUMER_KEY = "e20fd393371948c994823a0ed1b9f2f8";
-    var FITBIT_CONSUMER_SECRET = "4d758abd58d846a2a47a971a5a623e5f";
 
 
     // Passport session setup.
@@ -50,8 +48,8 @@ MongoClient.connect('mongodb://localhost:27017/ActiveMe', function (err, db) {
     // credentials (in this case, a token, tokenSecret, and Fitbit profile), and
     // invoke a callback with a user object.
     passport.use(new FitbitStrategy({
-        consumerKey: FITBIT_CONSUMER_KEY,
-        consumerSecret: FITBIT_CONSUMER_SECRET,
+        consumerKey: config.fitbitConsumerKey,
+        consumerSecret: config.fitbitConsumerSecret,
         callbackURL: "http://127.0.0.1:3000/auth/fitbit/callback"
         },
         function(token, tokenSecret, profile, done) {
@@ -104,6 +102,10 @@ MongoClient.connect('mongodb://localhost:27017/ActiveMe', function (err, db) {
         res.render('login', { user: req.user });
     });
 
+    app.get('/steps', getSteps, function(req, res) {
+        res.render('steps', {});
+    });
+
     // GET /auth/fitbit
     // Use passport.authenticate() as route middleware to authenticate the
     // request.  The first step in Fitbit authentication will involve redirecting
@@ -124,7 +126,7 @@ MongoClient.connect('mongodb://localhost:27017/ActiveMe', function (err, db) {
     app.get('/auth/fitbit/callback',
         passport.authenticate('fitbit', { failureRedirect: '/login' }),
         function(req, res) {
-            res.redirect('/');
+            res.redirect('/account');
     });
 
     app.get('/logout', function(req, res){
@@ -147,6 +149,13 @@ MongoClient.connect('mongodb://localhost:27017/ActiveMe', function (err, db) {
     function ensureAuthenticated(req, res, next) {
         if (req.isAuthenticated()) { return next(); }
         res.redirect('/login');
+    }
+
+    // Get steps using Fitbit API
+    function getSteps(req, res, next) {
+        if (req.isAuthenticated()) {
+
+        }
     }
 
 });
