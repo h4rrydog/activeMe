@@ -8,15 +8,17 @@ var env = process.env.NODE_ENV || 'production',
 
 var express = require('express'),
     exphbs = require('express-handlebars'),
+    path = require('path'),
     util = require('util'),
-    passport = require('passport'),
-    FitbitStrategy = require('passport-fitbit').Strategy,
+    favicon = require('serve-favicon'),
     morgan = require('morgan'),
     cookieParser = require('cookie-parser'),
     bodyParser = require('body-parser'),
     methodOverride = require('method-override'),
     session = require('express-session'),
     serveStatic = require('serve-static'),
+    passport = require('passport'),
+    FitbitStrategy = require('passport-fitbit').Strategy,
     MongoClient = require('mongodb').MongoClient;
 
 // MongoDB server connection wrapper
@@ -69,13 +71,13 @@ MongoClient.connect('mongodb://localhost:27017/ActiveMe', function (err, db) {
     var app = express();
 
     // configure Express
+    app.set('port', process.env.PORT || 3000);
     app.engine('handlebars', exphbs({defaultLayout: 'main'}));
     app.set('view engine', 'handlebars');
+    app.use(favicon(path.join(__dirname, '/public/favicon.ico')));
     app.use(morgan('combined'));
-    app.use(cookieParser());
-    app.use(bodyParser.urlencoded({
-        extended: false
-    }));
+    app.use(cookieParser('TODO Random string: Hases are awesome!'));
+    app.use(bodyParser.urlencoded({ extended: false }));
     app.use(methodOverride());
     app.use(session({
         secret: 'keyboard cat',
@@ -88,14 +90,13 @@ MongoClient.connect('mongodb://localhost:27017/ActiveMe', function (err, db) {
     app.use(passport.session());
 
 
-    // Routes
+    // Define routes
     app.get('/', function(req, res){
         res.render('index', { user: req.user });
     });
 
     app.get('/account', ensureAuthenticated, function(req, res){
         res.render('account', { user: req.user });
-        console.log(req.user);
     });
 
     app.get('/login', function(req, res){
@@ -135,7 +136,7 @@ MongoClient.connect('mongodb://localhost:27017/ActiveMe', function (err, db) {
     });
 
     // Otherwise use static
-    app.use(serveStatic(__dirname + '/public'));
+    app.use(serveStatic(path.join(__dirname + '/public')));
 
     app.listen(3000);
     console.log("ActiveMe listening on port 3000...");
