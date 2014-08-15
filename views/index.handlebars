@@ -1,5 +1,5 @@
 {{#if user}}
-    <h2>Hello, {{user.displayName}}</h2>
+    <h2>Hello, {{user.displayName}} Click <a href="/account">here</a> to go to your profile.</h2>
 {{else}}
-    <h2>Welcome! Please log in.</h2>
+    <h2>Welcome! Please <a href="/auth/fitbit">log in.</a></h2>
 {{/if}}
