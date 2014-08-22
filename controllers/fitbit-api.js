@@ -17,11 +17,9 @@ var oauth = new OAuth.OAuth(
     'HMAC-SHA1'
 );
 
+// Module exports
 module.exports.getTimeSeries = function (req, res) {
-    // Initially try just one account (me)
-    // TODO - Iterate through the list of users and get updates
-    updateUserSteps('27KSGW', nullCallback);
-
+    // Get a list of users, then iterate thru them invoking updateUserSteps
     User.find(
         {},
         {"encodedId": true},
@@ -36,6 +34,7 @@ module.exports.getTimeSeries = function (req, res) {
     );
 };
 
+// Helper functions
 function updateUserSteps(encodedId, callback) {
     console.log("Trying to update steps for", encodedId, "...");
 
