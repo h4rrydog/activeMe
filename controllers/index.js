@@ -29,8 +29,3 @@ module.exports.showUser = function (req, res) {
         res.redirect('/');
     }
 };
-
-// Page where user profile is refreshed from Fitbit
-module.exports.refreshUser = function (req, res) {
-    // TODO
-};

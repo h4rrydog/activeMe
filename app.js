@@ -1,4 +1,4 @@
-// ActiveMe
+// ActiveMe - main node.js app.
 // Fitbit API consumer, analytics and dashboard.
 // By Ifung Lu
 // 13 August 2014
@@ -43,9 +43,12 @@ app.use(passport.session());
 // Connect to database and initialise model
 mongoose.connect(config.db);
 require('./models/user');
+require('./models/steps');
 
 // Initialise controllers
 var IndexController = require('./controllers/index'),
+    // DashboardController = require('./controllers/dashboard'),
+    AnalyticsController = require('./controllers/analytics'),
     FitbitAuthController = require('./controllers/fitbit-auth'),
     FitbitApiController = require('./controllers/fitbit-api');
 
@@ -53,8 +56,10 @@ var IndexController = require('./controllers/index'),
 // Index and refresh routes
 app.get('/', IndexController.index);
 app.get('/account', IndexController.showUser);
-app.get('/refresh', IndexController.refreshUser);
-// app.post('notifications', FitApiController.notificationsReceived);
+app.get('/users', AnalyticsController.listUsers);
+// app.get('/users-refresh', AnalyticsController.refreshUsers);
+app.get('/api-getTimeSeries', FitbitApiController.getTimeSeries);
+
 // OAuth routes
 app.get('/auth/fitbit', passport.authenticate('fitbit'));
 app.get('/auth/fitbit/callback',
