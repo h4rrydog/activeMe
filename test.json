@@ -1,0 +1,4401 @@
+HTTP/1.1 200 OK
+Server: nginx
+X-UA-Compatible: IE=edge,chrome=1
+Fitbit-Rate-Limit-Limit: 150
+Fitbit-Rate-Limit-Remaining: 137
+Fitbit-Rate-Limit-Reset: 27
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: JSESSIONID=BE6C51E8593605A6A940AC7091B670CF.fitbit1; Path=/
+Content-Type: application/json;charset=UTF-8
+Content-Language: en
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+Date: Fri, 22 Aug 2014 09:59:33 GMT
+X-Frame-Options: SAMEORIGIN
+
+{
+  "activities-steps": [
+    {
+      "dateTime": "2011-08-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-08-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-08-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-08-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-08-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-08-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-08-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-08-31",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-09-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-10-31",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-11-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2011-12-31",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-01-31",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-02-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-03-31",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-04-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-05-31",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-06-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-07-31",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-08-31",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-09-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-10-31",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-11-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2012-12-31",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-01-31",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-02-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-03-31",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-04-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-05-31",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-06-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-29",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-30",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-07-31",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-01",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-02",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-03",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-04",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-05",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-06",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-07",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-08",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-09",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-10",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-11",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-12",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-13",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-14",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-15",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-16",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-17",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-18",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-19",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-20",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-21",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-22",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-24",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-25",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-26",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-27",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-28",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-08-29",
+      "value": "3601"
+    },
+    {
+      "dateTime": "2013-08-30",
+      "value": "10951"
+    },
+    {
+      "dateTime": "2013-08-31",
+      "value": "6541"
+    },
+    {
+      "dateTime": "2013-09-01",
+      "value": "7748"
+    },
+    {
+      "dateTime": "2013-09-02",
+      "value": "10294"
+    },
+    {
+      "dateTime": "2013-09-03",
+      "value": "7094"
+    },
+    {
+      "dateTime": "2013-09-04",
+      "value": "10218"
+    },
+    {
+      "dateTime": "2013-09-05",
+      "value": "7619"
+    },
+    {
+      "dateTime": "2013-09-06",
+      "value": "10467"
+    },
+    {
+      "dateTime": "2013-09-07",
+      "value": "13728"
+    },
+    {
+      "dateTime": "2013-09-08",
+      "value": "4684"
+    },
+    {
+      "dateTime": "2013-09-09",
+      "value": "10655"
+    },
+    {
+      "dateTime": "2013-09-10",
+      "value": "7205"
+    },
+    {
+      "dateTime": "2013-09-11",
+      "value": "11448"
+    },
+    {
+      "dateTime": "2013-09-12",
+      "value": "13062"
+    },
+    {
+      "dateTime": "2013-09-13",
+      "value": "15058"
+    },
+    {
+      "dateTime": "2013-09-14",
+      "value": "7834"
+    },
+    {
+      "dateTime": "2013-09-15",
+      "value": "15396"
+    },
+    {
+      "dateTime": "2013-09-16",
+      "value": "3738"
+    },
+    {
+      "dateTime": "2013-09-17",
+      "value": "5763"
+    },
+    {
+      "dateTime": "2013-09-18",
+      "value": "4273"
+    },
+    {
+      "dateTime": "2013-09-19",
+      "value": "6868"
+    },
+    {
+      "dateTime": "2013-09-20",
+      "value": "3344"
+    },
+    {
+      "dateTime": "2013-09-21",
+      "value": "14797"
+    },
+    {
+      "dateTime": "2013-09-22",
+      "value": "10781"
+    },
+    {
+      "dateTime": "2013-09-23",
+      "value": "21186"
+    },
+    {
+      "dateTime": "2013-09-24",
+      "value": "23531"
+    },
+    {
+      "dateTime": "2013-09-25",
+      "value": "16579"
+    },
+    {
+      "dateTime": "2013-09-26",
+      "value": "14488"
+    },
+    {
+      "dateTime": "2013-09-27",
+      "value": "10624"
+    },
+    {
+      "dateTime": "2013-09-28",
+      "value": "14027"
+    },
+    {
+      "dateTime": "2013-09-29",
+      "value": "6045"
+    },
+    {
+      "dateTime": "2013-09-30",
+      "value": "10089"
+    },
+    {
+      "dateTime": "2013-10-01",
+      "value": "10008"
+    },
+    {
+      "dateTime": "2013-10-02",
+      "value": "10411"
+    },
+    {
+      "dateTime": "2013-10-03",
+      "value": "9078"
+    },
+    {
+      "dateTime": "2013-10-04",
+      "value": "4760"
+    },
+    {
+      "dateTime": "2013-10-05",
+      "value": "7776"
+    },
+    {
+      "dateTime": "2013-10-06",
+      "value": "9039"
+    },
+    {
+      "dateTime": "2013-10-07",
+      "value": "5044"
+    },
+    {
+      "dateTime": "2013-10-08",
+      "value": "14087"
+    },
+    {
+      "dateTime": "2013-10-09",
+      "value": "16372"
+    },
+    {
+      "dateTime": "2013-10-10",
+      "value": "10280"
+    },
+    {
+      "dateTime": "2013-10-11",
+      "value": "14026"
+    },
+    {
+      "dateTime": "2013-10-12",
+      "value": "5910"
+    },
+    {
+      "dateTime": "2013-10-13",
+      "value": "8760"
+    },
+    {
+      "dateTime": "2013-10-14",
+      "value": "6722"
+    },
+    {
+      "dateTime": "2013-10-15",
+      "value": "9164"
+    },
+    {
+      "dateTime": "2013-10-16",
+      "value": "11808"
+    },
+    {
+      "dateTime": "2013-10-17",
+      "value": "10970"
+    },
+    {
+      "dateTime": "2013-10-18",
+      "value": "12652"
+    },
+    {
+      "dateTime": "2013-10-19",
+      "value": "7245"
+    },
+    {
+      "dateTime": "2013-10-20",
+      "value": "9339"
+    },
+    {
+      "dateTime": "2013-10-21",
+      "value": "9701"
+    },
+    {
+      "dateTime": "2013-10-22",
+      "value": "3944"
+    },
+    {
+      "dateTime": "2013-10-23",
+      "value": "6192"
+    },
+    {
+      "dateTime": "2013-10-24",
+      "value": "8302"
+    },
+    {
+      "dateTime": "2013-10-25",
+      "value": "4695"
+    },
+    {
+      "dateTime": "2013-10-26",
+      "value": "34658"
+    },
+    {
+      "dateTime": "2013-10-27",
+      "value": "9689"
+    },
+    {
+      "dateTime": "2013-10-28",
+      "value": "8490"
+    },
+    {
+      "dateTime": "2013-10-29",
+      "value": "7786"
+    },
+    {
+      "dateTime": "2013-10-30",
+      "value": "10298"
+    },
+    {
+      "dateTime": "2013-10-31",
+      "value": "2531"
+    },
+    {
+      "dateTime": "2013-11-01",
+      "value": "2428"
+    },
+    {
+      "dateTime": "2013-11-02",
+      "value": "4654"
+    },
+    {
+      "dateTime": "2013-11-03",
+      "value": "6047"
+    },
+    {
+      "dateTime": "2013-11-04",
+      "value": "5375"
+    },
+    {
+      "dateTime": "2013-11-05",
+      "value": "6967"
+    },
+    {
+      "dateTime": "2013-11-06",
+      "value": "6073"
+    },
+    {
+      "dateTime": "2013-11-07",
+      "value": "5050"
+    },
+    {
+      "dateTime": "2013-11-08",
+      "value": "12089"
+    },
+    {
+      "dateTime": "2013-11-09",
+      "value": "4084"
+    },
+    {
+      "dateTime": "2013-11-10",
+      "value": "13607"
+    },
+    {
+      "dateTime": "2013-11-11",
+      "value": "11074"
+    },
+    {
+      "dateTime": "2013-11-12",
+      "value": "4801"
+    },
+    {
+      "dateTime": "2013-11-13",
+      "value": "7092"
+    },
+    {
+      "dateTime": "2013-11-14",
+      "value": "8933"
+    },
+    {
+      "dateTime": "2013-11-15",
+      "value": "7271"
+    },
+    {
+      "dateTime": "2013-11-16",
+      "value": "31212"
+    },
+    {
+      "dateTime": "2013-11-17",
+      "value": "15803"
+    },
+    {
+      "dateTime": "2013-11-18",
+      "value": "4604"
+    },
+    {
+      "dateTime": "2013-11-19",
+      "value": "9115"
+    },
+    {
+      "dateTime": "2013-11-20",
+      "value": "4674"
+    },
+    {
+      "dateTime": "2013-11-21",
+      "value": "6965"
+    },
+    {
+      "dateTime": "2013-11-22",
+      "value": "5760"
+    },
+    {
+      "dateTime": "2013-11-23",
+      "value": "6153"
+    },
+    {
+      "dateTime": "2013-11-24",
+      "value": "2704"
+    },
+    {
+      "dateTime": "2013-11-25",
+      "value": "4626"
+    },
+    {
+      "dateTime": "2013-11-26",
+      "value": "8155"
+    },
+    {
+      "dateTime": "2013-11-27",
+      "value": "4030"
+    },
+    {
+      "dateTime": "2013-11-28",
+      "value": "14141"
+    },
+    {
+      "dateTime": "2013-11-29",
+      "value": "9664"
+    },
+    {
+      "dateTime": "2013-11-30",
+      "value": "4506"
+    },
+    {
+      "dateTime": "2013-12-01",
+      "value": "4056"
+    },
+    {
+      "dateTime": "2013-12-02",
+      "value": "12596"
+    },
+    {
+      "dateTime": "2013-12-03",
+      "value": "10913"
+    },
+    {
+      "dateTime": "2013-12-04",
+      "value": "6127"
+    },
+    {
+      "dateTime": "2013-12-05",
+      "value": "6952"
+    },
+    {
+      "dateTime": "2013-12-06",
+      "value": "4515"
+    },
+    {
+      "dateTime": "2013-12-07",
+      "value": "28424"
+    },
+    {
+      "dateTime": "2013-12-08",
+      "value": "19621"
+    },
+    {
+      "dateTime": "2013-12-09",
+      "value": "5761"
+    },
+    {
+      "dateTime": "2013-12-10",
+      "value": "8427"
+    },
+    {
+      "dateTime": "2013-12-11",
+      "value": "9068"
+    },
+    {
+      "dateTime": "2013-12-12",
+      "value": "3870"
+    },
+    {
+      "dateTime": "2013-12-13",
+      "value": "14645"
+    },
+    {
+      "dateTime": "2013-12-14",
+      "value": "15157"
+    },
+    {
+      "dateTime": "2013-12-15",
+      "value": "4333"
+    },
+    {
+      "dateTime": "2013-12-16",
+      "value": "8100"
+    },
+    {
+      "dateTime": "2013-12-17",
+      "value": "8887"
+    },
+    {
+      "dateTime": "2013-12-18",
+      "value": "12171"
+    },
+    {
+      "dateTime": "2013-12-19",
+      "value": "7009"
+    },
+    {
+      "dateTime": "2013-12-20",
+      "value": "3153"
+    },
+    {
+      "dateTime": "2013-12-21",
+      "value": "8765"
+    },
+    {
+      "dateTime": "2013-12-22",
+      "value": "1592"
+    },
+    {
+      "dateTime": "2013-12-23",
+      "value": "0"
+    },
+    {
+      "dateTime": "2013-12-24",
+      "value": "10101"
+    },
+    {
+      "dateTime": "2013-12-25",
+      "value": "3288"
+    },
+    {
+      "dateTime": "2013-12-26",
+      "value": "11192"
+    },
+    {
+      "dateTime": "2013-12-27",
+      "value": "11843"
+    },
+    {
+      "dateTime": "2013-12-28",
+      "value": "16808"
+    },
+    {
+      "dateTime": "2013-12-29",
+      "value": "15279"
+    },
+    {
+      "dateTime": "2013-12-30",
+      "value": "15108"
+    },
+    {
+      "dateTime": "2013-12-31",
+      "value": "1825"
+    },
+    {
+      "dateTime": "2014-01-01",
+      "value": "11972"
+    },
+    {
+      "dateTime": "2014-01-02",
+      "value": "20569"
+    },
+    {
+      "dateTime": "2014-01-03",
+      "value": "4073"
+    },
+    {
+      "dateTime": "2014-01-04",
+      "value": "9139"
+    },
+    {
+      "dateTime": "2014-01-05",
+      "value": "3287"
+    },
+    {
+      "dateTime": "2014-01-06",
+      "value": "3141"
+    },
+    {
+      "dateTime": "2014-01-07",
+      "value": "2526"
+    },
+    {
+      "dateTime": "2014-01-08",
+      "value": "4399"
+    },
+    {
+      "dateTime": "2014-01-09",
+      "value": "4509"
+    },
+    {
+      "dateTime": "2014-01-10",
+      "value": "4321"
+    },
+    {
+      "dateTime": "2014-01-11",
+      "value": "18063"
+    },
+    {
+      "dateTime": "2014-01-12",
+      "value": "3148"
+    },
+    {
+      "dateTime": "2014-01-13",
+      "value": "5666"
+    },
+    {
+      "dateTime": "2014-01-14",
+      "value": "9075"
+    },
+    {
+      "dateTime": "2014-01-15",
+      "value": "5371"
+    },
+    {
+      "dateTime": "2014-01-16",
+      "value": "2266"
+    },
+    {
+      "dateTime": "2014-01-17",
+      "value": "12897"
+    },
+    {
+      "dateTime": "2014-01-18",
+      "value": "5757"
+    },
+    {
+      "dateTime": "2014-01-19",
+      "value": "3367"
+    },
+    {
+      "dateTime": "2014-01-20",
+      "value": "7400"
+    },
+    {
+      "dateTime": "2014-01-21",
+      "value": "11253"
+    },
+    {
+      "dateTime": "2014-01-22",
+      "value": "8079"
+    },
+    {
+      "dateTime": "2014-01-23",
+      "value": "10608"
+    },
+    {
+      "dateTime": "2014-01-24",
+      "value": "2507"
+    },
+    {
+      "dateTime": "2014-01-25",
+      "value": "10266"
+    },
+    {
+      "dateTime": "2014-01-26",
+      "value": "10128"
+    },
+    {
+      "dateTime": "2014-01-27",
+      "value": "3568"
+    },
+    {
+      "dateTime": "2014-01-28",
+      "value": "8173"
+    },
+    {
+      "dateTime": "2014-01-29",
+      "value": "3472"
+    },
+    {
+      "dateTime": "2014-01-30",
+      "value": "132"
+    },
+    {
+      "dateTime": "2014-01-31",
+      "value": "5174"
+    },
+    {
+      "dateTime": "2014-02-01",
+      "value": "12111"
+    },
+    {
+      "dateTime": "2014-02-02",
+      "value": "3289"
+    },
+    {
+      "dateTime": "2014-02-03",
+      "value": "8183"
+    },
+    {
+      "dateTime": "2014-02-04",
+      "value": "10162"
+    },
+    {
+      "dateTime": "2014-02-05",
+      "value": "4428"
+    },
+    {
+      "dateTime": "2014-02-06",
+      "value": "10488"
+    },
+    {
+      "dateTime": "2014-02-07",
+      "value": "3430"
+    },
+    {
+      "dateTime": "2014-02-08",
+      "value": "10400"
+    },
+    {
+      "dateTime": "2014-02-09",
+      "value": "5146"
+    },
+    {
+      "dateTime": "2014-02-10",
+      "value": "4618"
+    },
+    {
+      "dateTime": "2014-02-11",
+      "value": "22084"
+    },
+    {
+      "dateTime": "2014-02-12",
+      "value": "5437"
+    },
+    {
+      "dateTime": "2014-02-13",
+      "value": "8250"
+    },
+    {
+      "dateTime": "2014-02-14",
+      "value": "10101"
+    },
+    {
+      "dateTime": "2014-02-15",
+      "value": "15518"
+    },
+    {
+      "dateTime": "2014-02-16",
+      "value": "2698"
+    },
+    {
+      "dateTime": "2014-02-17",
+      "value": "2771"
+    },
+    {
+      "dateTime": "2014-02-18",
+      "value": "4846"
+    },
+    {
+      "dateTime": "2014-02-19",
+      "value": "3613"
+    },
+    {
+      "dateTime": "2014-02-20",
+      "value": "7084"
+    },
+    {
+      "dateTime": "2014-02-21",
+      "value": "7193"
+    },
+    {
+      "dateTime": "2014-02-22",
+      "value": "9021"
+    },
+    {
+      "dateTime": "2014-02-23",
+      "value": "1628"
+    },
+    {
+      "dateTime": "2014-02-24",
+      "value": "2052"
+    },
+    {
+      "dateTime": "2014-02-25",
+      "value": "3633"
+    },
+    {
+      "dateTime": "2014-02-26",
+      "value": "3952"
+    },
+    {
+      "dateTime": "2014-02-27",
+      "value": "5161"
+    },
+    {
+      "dateTime": "2014-02-28",
+      "value": "8236"
+    },
+    {
+      "dateTime": "2014-03-01",
+      "value": "6186"
+    },
+    {
+      "dateTime": "2014-03-02",
+      "value": "14216"
+    },
+    {
+      "dateTime": "2014-03-03",
+      "value": "9746"
+    },
+    {
+      "dateTime": "2014-03-04",
+      "value": "146"
+    },
+    {
+      "dateTime": "2014-03-05",
+      "value": "26834"
+    },
+    {
+      "dateTime": "2014-03-06",
+      "value": "4662"
+    },
+    {
+      "dateTime": "2014-03-07",
+      "value": "6353"
+    },
+    {
+      "dateTime": "2014-03-08",
+      "value": "16267"
+    },
+    {
+      "dateTime": "2014-03-09",
+      "value": "7083"
+    },
+    {
+      "dateTime": "2014-03-10",
+      "value": "5308"
+    },
+    {
+      "dateTime": "2014-03-11",
+      "value": "3669"
+    },
+    {
+      "dateTime": "2014-03-12",
+      "value": "4761"
+    },
+    {
+      "dateTime": "2014-03-13",
+      "value": "12686"
+    },
+    {
+      "dateTime": "2014-03-14",
+      "value": "12610"
+    },
+    {
+      "dateTime": "2014-03-15",
+      "value": "6601"
+    },
+    {
+      "dateTime": "2014-03-16",
+      "value": "12126"
+    },
+    {
+      "dateTime": "2014-03-17",
+      "value": "9732"
+    },
+    {
+      "dateTime": "2014-03-18",
+      "value": "7275"
+    },
+    {
+      "dateTime": "2014-03-19",
+      "value": "10663"
+    },
+    {
+      "dateTime": "2014-03-20",
+      "value": "26013"
+    },
+    {
+      "dateTime": "2014-03-21",
+      "value": "5002"
+    },
+    {
+      "dateTime": "2014-03-22",
+      "value": "4430"
+    },
+    {
+      "dateTime": "2014-03-23",
+      "value": "7527"
+    },
+    {
+      "dateTime": "2014-03-24",
+      "value": "12165"
+    },
+    {
+      "dateTime": "2014-03-25",
+      "value": "6107"
+    },
+    {
+      "dateTime": "2014-03-26",
+      "value": "14771"
+    },
+    {
+      "dateTime": "2014-03-27",
+      "value": "9888"
+    },
+    {
+      "dateTime": "2014-03-28",
+      "value": "6788"
+    },
+    {
+      "dateTime": "2014-03-29",
+      "value": "6585"
+    },
+    {
+      "dateTime": "2014-03-30",
+      "value": "19298"
+    },
+    {
+      "dateTime": "2014-03-31",
+      "value": "15523"
+    },
+    {
+      "dateTime": "2014-04-01",
+      "value": "16212"
+    },
+    {
+      "dateTime": "2014-04-02",
+      "value": "28723"
+    },
+    {
+      "dateTime": "2014-04-03",
+      "value": "10135"
+    },
+    {
+      "dateTime": "2014-04-04",
+      "value": "1114"
+    },
+    {
+      "dateTime": "2014-04-05",
+      "value": "19276"
+    },
+    {
+      "dateTime": "2014-04-06",
+      "value": "12933"
+    },
+    {
+      "dateTime": "2014-04-07",
+      "value": "4756"
+    },
+    {
+      "dateTime": "2014-04-08",
+      "value": "10365"
+    },
+    {
+      "dateTime": "2014-04-09",
+      "value": "10140"
+    },
+    {
+      "dateTime": "2014-04-10",
+      "value": "6300"
+    },
+    {
+      "dateTime": "2014-04-11",
+      "value": "8271"
+    },
+    {
+      "dateTime": "2014-04-12",
+      "value": "11007"
+    },
+    {
+      "dateTime": "2014-04-13",
+      "value": "6398"
+    },
+    {
+      "dateTime": "2014-04-14",
+      "value": "12204"
+    },
+    {
+      "dateTime": "2014-04-15",
+      "value": "10211"
+    },
+    {
+      "dateTime": "2014-04-16",
+      "value": "7523"
+    },
+    {
+      "dateTime": "2014-04-17",
+      "value": "11127"
+    },
+    {
+      "dateTime": "2014-04-18",
+      "value": "15725"
+    },
+    {
+      "dateTime": "2014-04-19",
+      "value": "11909"
+    },
+    {
+      "dateTime": "2014-04-20",
+      "value": "2332"
+    },
+    {
+      "dateTime": "2014-04-21",
+      "value": "4537"
+    },
+    {
+      "dateTime": "2014-04-22",
+      "value": "11965"
+    },
+    {
+      "dateTime": "2014-04-23",
+      "value": "13518"
+    },
+    {
+      "dateTime": "2014-04-24",
+      "value": "8375"
+    },
+    {
+      "dateTime": "2014-04-25",
+      "value": "11758"
+    },
+    {
+      "dateTime": "2014-04-26",
+      "value": "20815"
+    },
+    {
+      "dateTime": "2014-04-27",
+      "value": "14771"
+    },
+    {
+      "dateTime": "2014-04-28",
+      "value": "4573"
+    },
+    {
+      "dateTime": "2014-04-29",
+      "value": "5092"
+    },
+    {
+      "dateTime": "2014-04-30",
+      "value": "13110"
+    },
+    {
+      "dateTime": "2014-05-01",
+      "value": "7424"
+    },
+    {
+      "dateTime": "2014-05-02",
+      "value": "19858"
+    },
+    {
+      "dateTime": "2014-05-03",
+      "value": "8222"
+    },
+    {
+      "dateTime": "2014-05-04",
+      "value": "8217"
+    },
+    {
+      "dateTime": "2014-05-05",
+      "value": "6669"
+    },
+    {
+      "dateTime": "2014-05-06",
+      "value": "8927"
+    },
+    {
+      "dateTime": "2014-05-07",
+      "value": "6604"
+    },
+    {
+      "dateTime": "2014-05-08",
+      "value": "13970"
+    },
+    {
+      "dateTime": "2014-05-09",
+      "value": "10638"
+    },
+    {
+      "dateTime": "2014-05-10",
+      "value": "8314"
+    },
+    {
+      "dateTime": "2014-05-11",
+      "value": "8881"
+    },
+    {
+      "dateTime": "2014-05-12",
+      "value": "12701"
+    },
+    {
+      "dateTime": "2014-05-13",
+      "value": "6754"
+    },
+    {
+      "dateTime": "2014-05-14",
+      "value": "9230"
+    },
+    {
+      "dateTime": "2014-05-15",
+      "value": "10069"
+    },
+    {
+      "dateTime": "2014-05-16",
+      "value": "10258"
+    },
+    {
+      "dateTime": "2014-05-17",
+      "value": "12777"
+    },
+    {
+      "dateTime": "2014-05-18",
+      "value": "8477"
+    },
+    {
+      "dateTime": "2014-05-19",
+      "value": "10540"
+    },
+    {
+      "dateTime": "2014-05-20",
+      "value": "9721"
+    },
+    {
+      "dateTime": "2014-05-21",
+      "value": "11971"
+    },
+    {
+      "dateTime": "2014-05-22",
+      "value": "10311"
+    },
+    {
+      "dateTime": "2014-05-23",
+      "value": "10494"
+    },
+    {
+      "dateTime": "2014-05-24",
+      "value": "11937"
+    },
+    {
+      "dateTime": "2014-05-25",
+      "value": "13434"
+    },
+    {
+      "dateTime": "2014-05-26",
+      "value": "6619"
+    },
+    {
+      "dateTime": "2014-05-27",
+      "value": "11045"
+    },
+    {
+      "dateTime": "2014-05-28",
+      "value": "10831"
+    },
+    {
+      "dateTime": "2014-05-29",
+      "value": "12545"
+    },
+    {
+      "dateTime": "2014-05-30",
+      "value": "10365"
+    },
+    {
+      "dateTime": "2014-05-31",
+      "value": "17674"
+    },
+    {
+      "dateTime": "2014-06-01",
+      "value": "3938"
+    },
+    {
+      "dateTime": "2014-06-02",
+      "value": "10915"
+    },
+    {
+      "dateTime": "2014-06-03",
+      "value": "10495"
+    },
+    {
+      "dateTime": "2014-06-04",
+      "value": "11837"
+    },
+    {
+      "dateTime": "2014-06-05",
+      "value": "12336"
+    },
+    {
+      "dateTime": "2014-06-06",
+      "value": "18076"
+    },
+    {
+      "dateTime": "2014-06-07",
+      "value": "12011"
+    },
+    {
+      "dateTime": "2014-06-08",
+      "value": "7626"
+    },
+    {
+      "dateTime": "2014-06-09",
+      "value": "10159"
+    },
+    {
+      "dateTime": "2014-06-10",
+      "value": "11793"
+    },
+    {
+      "dateTime": "2014-06-11",
+      "value": "8125"
+    },
+    {
+      "dateTime": "2014-06-12",
+      "value": "10786"
+    },
+    {
+      "dateTime": "2014-06-13",
+      "value": "17120"
+    },
+    {
+      "dateTime": "2014-06-14",
+      "value": "22086"
+    },
+    {
+      "dateTime": "2014-06-15",
+      "value": "12309"
+    },
+    {
+      "dateTime": "2014-06-16",
+      "value": "10534"
+    },
+    {
+      "dateTime": "2014-06-17",
+      "value": "10849"
+    },
+    {
+      "dateTime": "2014-06-18",
+      "value": "11534"
+    },
+    {
+      "dateTime": "2014-06-19",
+      "value": "14235"
+    },
+    {
+      "dateTime": "2014-06-20",
+      "value": "10113"
+    },
+    {
+      "dateTime": "2014-06-21",
+      "value": "9134"
+    },
+    {
+      "dateTime": "2014-06-22",
+      "value": "4550"
+    },
+    {
+      "dateTime": "2014-06-23",
+      "value": "19993"
+    },
+    {
+      "dateTime": "2014-06-24",
+      "value": "12431"
+    },
+    {
+      "dateTime": "2014-06-25",
+      "value": "10382"
+    },
+    {
+      "dateTime": "2014-06-26",
+      "value": "11816"
+    },
+    {
+      "dateTime": "2014-06-27",
+      "value": "10319"
+    },
+    {
+      "dateTime": "2014-06-28",
+      "value": "11845"
+    },
+    {
+      "dateTime": "2014-06-29",
+      "value": "8651"
+    },
+    {
+      "dateTime": "2014-06-30",
+      "value": "10876"
+    },
+    {
+      "dateTime": "2014-07-01",
+      "value": "14177"
+    },
+    {
+      "dateTime": "2014-07-02",
+      "value": "10064"
+    },
+    {
+      "dateTime": "2014-07-03",
+      "value": "10128"
+    },
+    {
+      "dateTime": "2014-07-04",
+      "value": "10675"
+    },
+    {
+      "dateTime": "2014-07-05",
+      "value": "3470"
+    },
+    {
+      "dateTime": "2014-07-06",
+      "value": "3044"
+    },
+    {
+      "dateTime": "2014-07-07",
+      "value": "8938"
+    },
+    {
+      "dateTime": "2014-07-08",
+      "value": "15272"
+    },
+    {
+      "dateTime": "2014-07-09",
+      "value": "11670"
+    },
+    {
+      "dateTime": "2014-07-10",
+      "value": "10131"
+    },
+    {
+      "dateTime": "2014-07-11",
+      "value": "7741"
+    },
+    {
+      "dateTime": "2014-07-12",
+      "value": "4388"
+    },
+    {
+      "dateTime": "2014-07-13",
+      "value": "7494"
+    },
+    {
+      "dateTime": "2014-07-14",
+      "value": "6605"
+    },
+    {
+      "dateTime": "2014-07-15",
+      "value": "7149"
+    },
+    {
+      "dateTime": "2014-07-16",
+      "value": "5718"
+    },
+    {
+      "dateTime": "2014-07-17",
+      "value": "8341"
+    },
+    {
+      "dateTime": "2014-07-18",
+      "value": "8033"
+    },
+    {
+      "dateTime": "2014-07-19",
+      "value": "13841"
+    },
+    {
+      "dateTime": "2014-07-20",
+      "value": "12196"
+    },
+    {
+      "dateTime": "2014-07-21",
+      "value": "8245"
+    },
+    {
+      "dateTime": "2014-07-22",
+      "value": "10405"
+    },
+    {
+      "dateTime": "2014-07-23",
+      "value": "10349"
+    },
+    {
+      "dateTime": "2014-07-24",
+      "value": "11113"
+    },
+    {
+      "dateTime": "2014-07-25",
+      "value": "10046"
+    },
+    {
+      "dateTime": "2014-07-26",
+      "value": "22493"
+    },
+    {
+      "dateTime": "2014-07-27",
+      "value": "10165"
+    },
+    {
+      "dateTime": "2014-07-28",
+      "value": "7992"
+    },
+    {
+      "dateTime": "2014-07-29",
+      "value": "9916"
+    },
+    {
+      "dateTime": "2014-07-30",
+      "value": "10430"
+    },
+    {
+      "dateTime": "2014-07-31",
+      "value": "9293"
+    },
+    {
+      "dateTime": "2014-08-01",
+      "value": "13355"
+    },
+    {
+      "dateTime": "2014-08-02",
+      "value": "8224"
+    },
+    {
+      "dateTime": "2014-08-03",
+      "value": "13898"
+    },
+    {
+      "dateTime": "2014-08-04",
+      "value": "10473"
+    },
+    {
+      "dateTime": "2014-08-05",
+      "value": "10438"
+    },
+    {
+      "dateTime": "2014-08-06",
+      "value": "6289"
+    },
+    {
+      "dateTime": "2014-08-07",
+      "value": "275"
+    },
+    {
+      "dateTime": "2014-08-08",
+      "value": "10906"
+    },
+    {
+      "dateTime": "2014-08-09",
+      "value": "10799"
+    },
+    {
+      "dateTime": "2014-08-10",
+      "value": "13571"
+    },
+    {
+      "dateTime": "2014-08-11",
+      "value": "4549"
+    },
+    {
+      "dateTime": "2014-08-12",
+      "value": "5452"
+    },
+    {
+      "dateTime": "2014-08-13",
+      "value": "16663"
+    },
+    {
+      "dateTime": "2014-08-14",
+      "value": "8161"
+    },
+    {
+      "dateTime": "2014-08-15",
+      "value": "12904"
+    },
+    {
+      "dateTime": "2014-08-16",
+      "value": "12588"
+    },
+    {
+      "dateTime": "2014-08-17",
+      "value": "9863"
+    },
+    {
+      "dateTime": "2014-08-18",
+      "value": "8724"
+    },
+    {
+      "dateTime": "2014-08-19",
+      "value": "4988"
+    },
+    {
+      "dateTime": "2014-08-20",
+      "value": "7347"
+    },
+    {
+      "dateTime": "2014-08-21",
+      "value": "10184"
+    },
+    {
+      "dateTime": "2014-08-22",
+      "value": "647"
+    }
+  ]
+}
